@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
