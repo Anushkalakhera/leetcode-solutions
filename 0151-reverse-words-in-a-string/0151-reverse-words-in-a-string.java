@@ -10,10 +10,11 @@ class Solution {
             l++;
             r--;
         }
-        String ans="";
-        for(int i=0;i<arr.length;i++){
-            ans+=arr[i] + " ";
+        StringBuilder ans = new StringBuilder();
+        for (String word : arr) {
+            ans.append(word).append(" ");
         }
-        return ans.trim();
+
+        return ans.toString().trim();
     }
 }
