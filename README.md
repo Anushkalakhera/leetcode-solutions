@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0728-self-dividing-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2469-convert-the-temperature) |
