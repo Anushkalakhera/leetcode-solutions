@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0657-robot-return-to-origin](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Enumeration
 |  |
