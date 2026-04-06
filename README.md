@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [3099-harshad-number](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3099-harshad-number) |
 ## Recursion
 |  |
 | ------- |
