@@ -4,18 +4,17 @@ class Solution {
        if(num == 0) return "0";  
 
         boolean isNegative = num < 0;
+        StringBuilder res = new StringBuilder();
         num = Math.abs(num);
-
-        String res = ""; 
         
         while(num != 0){
             int rem = num % 7;
-            res = rem + res; 
+            res.append(rem); 
             num = num / 7;
         }
         
-        if(isNegative) res = "-" + res;
+        if(isNegative) res.append("-");
 
-        return res;
+        return res.reverse().toString();
     }
 }
