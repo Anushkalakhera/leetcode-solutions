@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -166,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
