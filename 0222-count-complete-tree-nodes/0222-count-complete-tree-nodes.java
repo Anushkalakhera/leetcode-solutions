@@ -16,10 +16,11 @@
 class Solution {
     public int countNodes(TreeNode root) {
         if(root==null) return 0;
-        int count=0;
-        int left=countNodes(root.left);
-        int right=countNodes(root.right);
-       count+=1+left+right;
-        return count;
+    //     int count=0;
+    //     int left=countNodes(root.left);
+    //     int right=countNodes(root.right);
+    //    count+=1+left+right;
+    //     return count;
+        return 1+countNodes(root.left)+countNodes(root.right);
     }
 }
