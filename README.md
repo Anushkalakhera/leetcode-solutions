@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [3099-harshad-number](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3099-harshad-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
