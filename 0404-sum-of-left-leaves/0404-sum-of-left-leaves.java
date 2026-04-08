@@ -28,7 +28,7 @@ class Solution {
         return sum;
     }
     public int sumOfLeftLeaves(TreeNode root) {
-        helper(root);
-        return sum;
+       return  helper(root);
+        
     }
 }
