@@ -2,7 +2,6 @@ class Solution {
     public int findCenter(int[][] edges) {
         int m=edges.length;
         int n=edges[0].length;
-        int count=0;
         int ans=0;
         HashSet<Integer> set=new HashSet<>();
         for(int i=0;i<m;i++){
@@ -14,6 +13,6 @@ class Solution {
                 }
            } 
         }
-         return ans;
+        return ans;
     }
 }
