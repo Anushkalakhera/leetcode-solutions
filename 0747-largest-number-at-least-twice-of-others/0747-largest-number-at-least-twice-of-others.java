@@ -1,17 +1,17 @@
 class Solution {
     public int dominantIndex(int[] nums) {
-        for(int i=0;i<nums.length;i++){
-            boolean check=true;
-            for(int j=0;j<nums.length;j++){
-                if(nums[i]<2*nums[j] && i!=j){
-                    check=false;
-                    break;
-                }
+        int max = -1, secondMax = -1, index = -1;
+
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] > max) {
+                secondMax = max;
+                max = nums[i];
+                index = i;
+            } else if (nums[i] > secondMax) {
+                secondMax = nums[i];
             }
-            if(check==true){
-                return i;
-            }
-        }  
-        return -1;      
+        }
+
+        return max >= 2 * secondMax ? index : -1;      
     }
 }
