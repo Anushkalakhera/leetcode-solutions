@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1952-three-divisors](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1952-three-divisors) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1748-sum-of-unique-elements](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
