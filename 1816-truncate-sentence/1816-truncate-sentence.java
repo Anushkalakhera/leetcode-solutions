@@ -6,9 +6,10 @@ class Solution {
             if(s.charAt(i)==' '){
                 count++;
             }
-            ans+=s.charAt(i);
-            if(count==k) break;
+            if(count==k){
+                return s.substring(0, i);
+            }
         }
-        return ans.trim();
+        return s;
     }
 }
