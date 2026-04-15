@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1748-sum-of-unique-elements](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sliding Window
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1200-minimum-absolute-difference](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 ## Simulation
