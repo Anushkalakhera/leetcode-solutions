@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
