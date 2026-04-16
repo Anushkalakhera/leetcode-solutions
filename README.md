@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1816-truncate-sentence](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1920-build-array-from-permutation](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Enumeration
 |  |
