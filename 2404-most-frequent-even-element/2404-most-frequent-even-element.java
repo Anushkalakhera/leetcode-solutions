@@ -1,7 +1,6 @@
 class Solution {
     public int mostFrequentEven(int[] nums) {
         HashMap<Integer,Integer> map=new HashMap<>();
-        Arrays.sort(nums);
         int n=nums.length;
         for(int ele: nums){
             if(ele%2==0){
