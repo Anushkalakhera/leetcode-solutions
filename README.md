@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Prefix Sum
 |  |
 | ------- |
