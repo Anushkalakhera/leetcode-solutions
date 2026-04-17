@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2951-find-the-peaks](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2951-find-the-peaks) |
 ## Number Theory
 |  |
 | ------- |
