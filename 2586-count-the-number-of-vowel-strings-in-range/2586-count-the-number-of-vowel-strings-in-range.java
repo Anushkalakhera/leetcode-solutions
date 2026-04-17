@@ -11,12 +11,7 @@ class Solution {
         return count;
     }
 
-    public static boolean isVowel(char s){
-        char[] vowels={'a','e','i','o','u'};
-        for(int i=0;i<vowels.length;i++){
-            if(s==vowels[i]) return true;
-        }
-
-        return false;
+    public static boolean isVowel(char c){
+        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
     }
 }
