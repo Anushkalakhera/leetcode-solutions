@@ -2,8 +2,8 @@ class Solution {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
         for(int i=0;i<flowerbed.length;i++){
             if(flowerbed[i]==0){
-               Boolean leftEmpty=true;
-               Boolean rightEmpty=true;
+               boolean leftEmpty=true;
+               boolean rightEmpty=true;
 
                if(i>0 && flowerbed[i-1]==1){
                   leftEmpty=false;
