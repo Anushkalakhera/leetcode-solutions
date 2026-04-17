@@ -1,12 +1,12 @@
 class Solution {
     public boolean isAcronym(List<String> words, String s) {
-        String ans="";
+        StringBuilder ans = new StringBuilder();
         for(int i=0;i<words.size();i++){
             String word=words.get(i);
-            ans+=word.charAt(0);
+            ans.append(word.charAt(0));
         }
 
-        if(ans.equals(s)) return true;
+        if(ans.toString().equals(s)) return true;
         return false;
     }
 }
