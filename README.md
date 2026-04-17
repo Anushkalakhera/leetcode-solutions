@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0414-third-maximum-number](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## String Matching
