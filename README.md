@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2951-find-the-peaks](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2460-apply-operations-to-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 ## Enumeration
 |  |
 | ------- |
