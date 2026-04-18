@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3285-find-indices-of-stable-mountains](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
