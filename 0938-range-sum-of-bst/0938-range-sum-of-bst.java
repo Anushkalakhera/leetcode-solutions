@@ -14,22 +14,22 @@
  * }
  */
 class Solution {
-    ArrayList<Integer> li=new ArrayList<>();
-
-    public void inorder(TreeNode root){
-        if(root==null) return;
-        inorder(root.left);
-        li.add(root.val);
-        inorder(root.right);
-    }
+    int  sum=0;
     public int rangeSumBST(TreeNode root, int low, int high) {
-        inorder(root);
-        int sum=0;
-        for(int i=0;i<li.size();i++){
-            if(li.get(i)>=low && li.get(i)<=high){
-                sum+=li.get(i);
-            }
+         if(root == null) return sum;
+
+        if(root.val >= low && root.val <= high){
+            sum += root.val;
         }
+
+        if(root.val > low){
+            rangeSumBST(root.left, low, high);
+        }
+
+        if(root.val < high){
+            rangeSumBST(root.right, low, high);
+        }
+
         return sum;
     }
 }
