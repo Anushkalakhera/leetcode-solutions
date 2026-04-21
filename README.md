@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0443-string-compression) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0441-arranging-coins](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1200-minimum-absolute-difference](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
