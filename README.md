@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
