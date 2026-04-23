@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3668-restore-finishing-order](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3668-restore-finishing-order](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Sliding Window
 |  |
 | ------- |
