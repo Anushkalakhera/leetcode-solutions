@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3668-restore-finishing-order](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Sliding Window
