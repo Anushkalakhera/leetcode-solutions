@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
