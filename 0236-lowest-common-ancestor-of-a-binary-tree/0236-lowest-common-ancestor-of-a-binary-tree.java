@@ -22,6 +22,6 @@ class Solution {
        if(leftP==false && rightQ==false) return root;
        if(leftP==true && rightQ==false) return lowestCommonAncestor(root.left,p,q);
        if(leftP==false && rightQ==true) return lowestCommonAncestor(root.right,p,q);
-       return root;
+       return null;
     }
 }
