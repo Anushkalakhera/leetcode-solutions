@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2460-apply-operations-to-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
 |  |
 | ------- |
