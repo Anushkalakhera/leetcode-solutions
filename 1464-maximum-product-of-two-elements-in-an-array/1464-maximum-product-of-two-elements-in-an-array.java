@@ -5,9 +5,6 @@ class Solution {
             pq.offer(ele);
         }
 
-        int a=pq.poll();
-        int b=pq.poll();
-
-        return (a-1)*(b-1);
+        return (pq.poll()-1)*(pq.poll()-1);
     }
 }
