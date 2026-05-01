@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1837-sum-of-digits-in-base-k) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Queue
