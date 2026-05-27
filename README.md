@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1748-sum-of-unique-elements](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1816-truncate-sentence](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1991-find-the-middle-index-in-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 ## Bit Manipulation
