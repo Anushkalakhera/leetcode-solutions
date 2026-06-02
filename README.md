@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0706-design-hashmap](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0896-monotonic-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0706-design-hashmap](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0706-design-hashmap](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0706-design-hashmap](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -637,4 +641,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0062-unique-paths) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
