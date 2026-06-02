@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Matrix
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
