@@ -5,13 +5,13 @@ class Solution {
         int ans=0;
         HashSet<Integer> set=new HashSet<>();
         for(int i=0;i<m;i++){
-           for(int j=0;j<n;j++){
+            for(int j=0;j<n;j++){
                 if(set.contains(edges[i][j])){
                     ans=edges[i][j];
                 }else{
                     set.add(edges[i][j]);
                 }
-           } 
+            }
         }
         return ans;
     }
