@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0071-simplify-path](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0062-unique-paths) |
