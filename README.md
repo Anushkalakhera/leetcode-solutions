@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Matrix
 |  |
