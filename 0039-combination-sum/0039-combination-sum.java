@@ -2,10 +2,7 @@ class Solution {
     public void backTrack(List<List<Integer>> finalList,List<Integer> currList,int[] nums,int start,int target){
         if(target<0) return;
         if(target==0){
-            Collections.sort(currList);
-            if(!finalList.contains(currList)){
-                finalList.add(new ArrayList<>(currList));
-            }
+            finalList.add(new ArrayList<>(currList));
             return;
         }else{
             for(int i=start;i<nums.length;i++){
