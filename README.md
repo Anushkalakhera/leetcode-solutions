@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [0763-partition-labels](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0962-maximum-width-ramp](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0962-maximum-width-ramp) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
