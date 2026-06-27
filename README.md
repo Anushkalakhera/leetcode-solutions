@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3668-restore-finishing-order) |
+| [3719-longest-balanced-subarray-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3668-restore-finishing-order) |
+| [3719-longest-balanced-subarray-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -757,4 +761,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
