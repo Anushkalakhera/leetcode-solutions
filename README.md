@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3668-restore-finishing-order](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3719-longest-balanced-subarray-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
 |  |
 | ------- |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Simulation
 |  |
 | ------- |
