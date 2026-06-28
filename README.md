@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0520-detect-capital) |
