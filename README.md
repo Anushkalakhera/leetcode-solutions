@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2788-split-strings-by-separator](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3280-convert-date-to-binary](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
