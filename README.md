@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0443-string-compression) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0735-asteroid-collision) |
