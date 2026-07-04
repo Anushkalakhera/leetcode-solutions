@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
 |  |
 | ------- |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Prefix Sum
 |  |
 | ------- |
