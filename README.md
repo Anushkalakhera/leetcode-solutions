@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0498-diagonal-traverse) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -915,4 +919,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0382-linked-list-random-node) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
