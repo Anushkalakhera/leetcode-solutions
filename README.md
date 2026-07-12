@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-merge-in-between-linked-lists](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Queue
 |  |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2000-reverse-prefix-of-word](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Graph Theory
 |  |
 | ------- |
@@ -882,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0962-maximum-width-ramp](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0962-maximum-width-ramp) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
