@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3668-restore-finishing-order](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3668-restore-finishing-order) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3713-longest-balanced-substring-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Queue
 |  |
 | ------- |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Enumeration
 |  |
@@ -854,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -930,4 +935,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
