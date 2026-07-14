@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0648-replace-words](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0648-replace-words) |
+| [0649-dota2-senate](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0763-partition-labels) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0846-hand-of-straights) |
