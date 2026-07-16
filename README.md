@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1089-duplicate-zeros](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0905-sort-array-by-parity](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0962-maximum-width-ramp](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0962-maximum-width-ramp) |
+| [1089-duplicate-zeros](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
