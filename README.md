@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0389-find-the-difference) |
