@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2460-apply-operations-to-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2465-number-of-distinct-averages](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2418-sort-the-people](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2465-number-of-distinct-averages](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
