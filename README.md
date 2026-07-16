@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0905-sort-array-by-parity](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0962-maximum-width-ramp](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0962-maximum-width-ramp) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0905-sort-array-by-parity](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
