@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -849,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0455-assign-cookies) |
