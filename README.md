@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2460-apply-operations-to-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2465-number-of-distinct-averages](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2465-number-of-distinct-averages](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2974-minimum-number-game](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
@@ -927,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2974-minimum-number-game](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
