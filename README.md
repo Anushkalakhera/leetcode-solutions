@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -947,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
