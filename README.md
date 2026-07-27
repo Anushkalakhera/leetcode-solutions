@@ -792,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1058,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Doubly-Linked List
 |  |
 | ------- |
