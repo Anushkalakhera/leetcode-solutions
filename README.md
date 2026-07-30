@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1020-number-of-enclaves](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -822,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1077,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Doubly-Linked List
 |  |
