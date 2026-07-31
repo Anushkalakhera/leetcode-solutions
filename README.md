@@ -1119,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
