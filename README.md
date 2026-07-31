@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
