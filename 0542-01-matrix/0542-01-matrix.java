@@ -27,7 +27,6 @@ class Solution {
         while(!q.isEmpty()){
             int size=q.size();
 
-            for(int i=0;i<size;i++){
                 int[] curr=q.poll();
 
                 int row=curr[0];
@@ -43,7 +42,6 @@ class Solution {
                         q.offer(new int[]{newRow,newCol});
                     }
                 }
-            }
         }
         return ans;
     }
