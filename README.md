@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0823-binary-trees-with-factors](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0823-binary-trees-with-factors) |
 | [0846-hand-of-straights](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0823-binary-trees-with-factors](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0823-binary-trees-with-factors) |
 | [1137-n-th-tribonacci-number](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
