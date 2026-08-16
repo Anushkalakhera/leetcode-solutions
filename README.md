@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -932,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
