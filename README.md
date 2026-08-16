@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0338-counting-bits) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0912-sort-an-array) |
