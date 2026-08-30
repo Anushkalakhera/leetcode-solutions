@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0091-decode-ways](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0338-counting-bits) |
