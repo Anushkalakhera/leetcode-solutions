@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0962-maximum-width-ramp](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -960,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
