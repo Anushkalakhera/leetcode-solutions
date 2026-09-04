@@ -25,23 +25,22 @@ class Solution {
         };
 
         while(!q.isEmpty()){
-            int size=q.size();
 
-                int[] curr=q.poll();
+            int[] curr=q.poll();
 
-                int row=curr[0];
-                int col=curr[1];
+            int row=curr[0];
+            int col=curr[1];
 
-                for(int[] dir : directions){
-                    int newRow=row+dir[0];
-                    int newCol=col+dir[1];
+            for(int[] dir : directions){
+                int newRow=row+dir[0];
+                int newCol=col+dir[1];
 
-                    if(newRow>=0 && newCol>=0 && newRow<m && newCol<n && !visited[newRow][newCol]){
-                        visited[newRow][newCol]=true;
-                        ans[newRow][newCol]=ans[row][col]+1;
-                        q.offer(new int[]{newRow,newCol});
-                    }
+                if(newRow>=0 && newCol>=0 && newRow<m && newCol<n && !visited[newRow][newCol]){
+                    visited[newRow][newCol]=true;
+                    ans[newRow][newCol]=ans[row][col]+1;
+                    q.offer(new int[]{newRow,newCol});
                 }
+            }
         }
         return ans;
     }
