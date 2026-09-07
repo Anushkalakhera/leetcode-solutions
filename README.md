@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2643-row-with-maximum-ones](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2643-row-with-maximum-ones](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Linked List
 |  |
