@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2643-row-with-maximum-ones](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
@@ -1064,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1316,4 +1319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Flow Network
+|  |
+| ------- |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
