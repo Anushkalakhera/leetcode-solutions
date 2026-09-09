@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0766-toeplitz-matrix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0823-binary-trees-with-factors](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0823-binary-trees-with-factors) |
 | [0846-hand-of-straights](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0860-lemonade-change) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1020-number-of-enclaves) |
