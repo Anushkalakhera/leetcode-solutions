@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0823-binary-trees-with-factors](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0823-binary-trees-with-factors) |
 | [0846-hand-of-straights](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [0853-car-fleet](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0823-binary-trees-with-factors](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0823-binary-trees-with-factors) |
 | [0846-hand-of-straights](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [0853-car-fleet](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -1012,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0853-car-fleet](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1163,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0962-maximum-width-ramp](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0962-maximum-width-ramp) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
