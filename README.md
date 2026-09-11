@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0382-linked-list-random-node](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0706-design-hashmap](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1669-merge-in-between-linked-lists) |
@@ -1011,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0735-asteroid-collision) |
