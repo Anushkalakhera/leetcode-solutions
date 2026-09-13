@@ -870,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -912,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -1019,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0844-backspace-string-compare) |
