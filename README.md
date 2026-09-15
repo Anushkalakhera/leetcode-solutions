@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1486-xor-operation-in-an-array](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -889,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -942,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -978,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -1030,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Stack
