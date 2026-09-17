@@ -893,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -951,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -1048,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
