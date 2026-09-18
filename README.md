@@ -889,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -952,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0897-increasing-order-search-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
@@ -1056,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -1095,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [0897-increasing-order-search-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
@@ -1131,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting Sort
