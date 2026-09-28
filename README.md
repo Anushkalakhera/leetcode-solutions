@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -1130,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -1479,4 +1481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anushkalakhera/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
